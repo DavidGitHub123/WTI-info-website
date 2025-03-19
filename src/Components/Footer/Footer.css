@@ -1,0 +1,40 @@
+.footer {
+    margin: 10px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid #797979;
+    padding: 15px 0;
+}
+
+.footerbtn {
+    background: #212ea0;
+    color: #fff;
+    padding: 8px 20px;
+    font-size: 10px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: 0;
+    outline: 0;
+  }
+
+
+/* Media Query */
+
+@media (max-width: 600px) {
+
+.footer {
+    display: block;
+    text-align: center;
+}
+
+.footer ul li {
+    margin: 10px
+}
+
+.footer ul {
+    margin-top: 10px
+}
+
+
+}
