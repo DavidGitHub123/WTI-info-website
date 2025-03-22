@@ -1,14 +1,18 @@
 import React from "react";
 import "./Footer.css";
-import '../../index.css'
-import { Link } from "react-router";
+import "../../index.css";
+import { Link, NavLink } from "react-router";
 
 export default function Footer() {
   return (
     <div className="footer">
-        <p>All rights reserved.</p>
-        <Link to="Contact" className="footerbtn">Contact</Link>
+      <p>All rights reserved.</p>
+      <Link to="Contact" className="footerbtn">
+        Contact
+      </Link>
+      <Link to="PrivacyPolicy" className="footerbtn">
+        Privacy Policy
+      </Link>
     </div>
   );
 }
-
