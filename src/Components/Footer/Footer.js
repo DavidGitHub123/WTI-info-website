@@ -7,9 +7,6 @@ export default function Footer() {
   return (
     <div className="footer">
       <p>All rights reserved.</p>
-      <Link to="Contact" className="footerbtn">
-        Contact
-      </Link>
       <Link to="PrivacyPolicy" className="footerbtn">
         Privacy Policy
       </Link>

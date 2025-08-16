@@ -3,17 +3,26 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 70%;
+    width: 90%;
+}
+
+.abouthome {
+    width: 200px;
+}
+
+.about-text {
+    font-size: 20px;
 }
 
 .about-left {
-    flex-basis: 40%;
-    position: relative;
+    /* flex-basis: 40%;
+    position: relative; */
+    margin-right: 60px;
 }
 
 .about-right {
     flex-basis: 56%;
-    margin-left: 50px;
+    /* margin-left: 50px; */
 }
 
 .about-img {

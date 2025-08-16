@@ -37,11 +37,11 @@ export default function Testimonials () {
                         <div className='user-info'>
                             <img src={user_1} alt='' />
                             <div>
-                                <h3>William Jackson</h3>
-                                <span>Edusity, USA</span>
+                                <h3>Shiela</h3>
+                                {/* <span>Edusity, USA</span> */}
                             </div>
                         </div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <p>Love this app. Tons of great words. I can create a small list and master those words. Used the notifications to remind me to take quizzes and play games.</p>
                     </div>
                 </li>
                 <li>
@@ -49,11 +49,11 @@ export default function Testimonials () {
                         <div className='user-info'>
                             <img src={user_2} alt='' />
                             <div>
-                                <h3>William Jackson</h3>
-                                <span>Edusity, USA</span>
+                                <h3>William</h3>
+                                {/* <span>Edusity, USA</span> */}
                             </div>
                         </div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <p>I always knew I should have a better vocabulary to help me in my career. I like these words. They seem to be the "practical" big words that I have seen all my life. I check out the Word of the Day every day. If I don't know it, I add it to one of my lists.</p>
                     </div>
                 </li>
                 <li>
@@ -61,11 +61,11 @@ export default function Testimonials () {
                         <div className='user-info'>
                             <img src={user_3} alt='' />
                             <div>
-                                <h3>William Jackson</h3>
-                                <span>Edusity, USA</span>
+                                <h3>Melissa</h3>
+                                {/* <span>Edusity, USA</span> */}
                             </div>
                         </div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <p>The games are fun to play. You see your score and can try to beat it. Easiest vocab app I've seen.</p>
                     </div>
                 </li>
                 <li>
@@ -73,11 +73,11 @@ export default function Testimonials () {
                         <div className='user-info'>
                             <img src={user_4} alt='' />
                             <div>
-                                <h3>William Jackson</h3>
-                                <span>Edusity, USA</span>
+                                <h3>Desmond</h3>
+                                {/* <span>Edusity, USA</span> */}
                             </div>
                         </div>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        <p>I used Build My List to create my first list. I just pasted in some of my writing and in seconds had a list of words related to the small words I use.</p>
                     </div>
                 </li>
             </ul>
